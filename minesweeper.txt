@@ -1,0 +1,11 @@
+Components to make:
+
+Minesweeper
+Board
+Sidebar
+Timer
+FlagCount
+ResetButton
+Game
+Row
+Cell
